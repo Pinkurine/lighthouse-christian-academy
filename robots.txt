@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /_template.html
+Sitemap: https://lighthouse.sch.id/sitemap.xml
